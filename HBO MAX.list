@@ -60,5 +60,5 @@ DOMAIN-SUFFIX,prd.api.discomax.com
 DOMAIN-SUFFIX,media.max.com
 DOMAIN-SUFFIX,prd.api.max.com
 DOMAIN-SUFFIX,max.com
-DOMAIN-SUFFIX,brightline.tv
-DOMAIN-SUFFIX,litix.io
+DOMAIN,events.brightline.tv
+DOMAIN-SUFFIX,out053a3bejgh7t0phqa0csou.litix.io
